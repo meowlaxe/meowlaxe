@@ -1,17 +1,17 @@
 <!-- Header Gif -->
-<p align="center">
+<p align="center" style="background-color:#1E1E2E; padding: 16px;">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi, I'm Zikri!" />
 </p>
 
 <!-- Title -->
-<h1 align="center">👋 Hi, my name is Rahmatul Zikri</h1>
+<h1 align="center" style="color:#CDD6F4;">👋 Hi, my name is Rahmatul Zikri</h1>
 
 <!-- Bio -->
-<h3 align="center">💻 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🛠️ UI/UX & Python Lover</h3>
+<h3 align="center" style="color:#A6ADC8;">💻 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🛠️ UI/UX & Python Lover</h3>
 
 ---
 
-### 🚀 About Me
+### 🚀 <span style="color:#89B4FA">About Me</span>
 
 - 🎓 I'm a Computer Engineering student at **Universitas Syiah Kuala**
 - 🔒 Passionate about **CyberSecurity** and **Network Engineering**
@@ -21,30 +21,29 @@
 
 ---
 
+### 🔗 <span style="color:#F5C2E7">Connect with me</span>
 
-### 🔗 Connect with me:
-
-<p align="center">
+<p align="center" style="background-color:#1E1E2E;">
   <a href="https://github.com/meowlaxe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-1E1E2E?logo=github&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/rhmtlzikri" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Instagram-F5C2E7?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/rahmatul-zikri-b8451126b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-89B4FA?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://app.hackthebox.com/profile" target="_blank">
-    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackTheBox-A6E3A1?logo=hackthebox&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://tryhackme.com/p/VanGoosewing" target="_blank">
-    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-94E2D5?logo=tryhackme&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 <span style="color:#F38BA8">Currently Learning</span>
 
 - 📘 CyberSecurity Fundamentals
 - 🧩 Network Engineering & Pentesting
@@ -52,28 +51,22 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ <span style="color:#CBA6F7">Tools & Technologies</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-89B4FA?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/GDScript-CBA6F7?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-94E2D5?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-F5C2E7?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
+
 ---
 
-### 📊 GitHub Stats
-
-<h3 align="left">📊 GitHub Stats</h3>
+### 📊 <span style="color:#FAB387">GitHub Stats</span>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meowlaxe&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meowlaxe&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meowlaxe&theme=catppuccin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=meowlaxe&theme=catppuccin&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" />
 </p>
-
-
----
-
-
