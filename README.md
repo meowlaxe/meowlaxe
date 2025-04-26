@@ -45,7 +45,7 @@
 
 ### 🧠 Currently Learning
 
-- 📘 CyberSecurity Fundamentals
+- 📘 CyberSecurity 
 - 🧩 Network Engineering & Pentesting
 - 🧪 Bug Bounty (Recon stage, OWASP Top 10)
 
