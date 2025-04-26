@@ -17,7 +17,6 @@
 - 🔒 Passionate about **CyberSecurity** and **Network Engineering**
 - 🐍 Experienced with **Python**, basic **Linux**, and **UI/UX design**
 - 🌱 Currently learning and growing in **ethical hacking**, **recon**, and **vulnerability management**
-- 💬 I love collaborating on open-source and security-focused projects
 
 ---
 
