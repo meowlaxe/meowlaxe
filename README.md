@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, my name is Rahmatul Zikri</h1>
 
 <!-- Bio -->
-<h3 align="center">💻 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🛠️ UI/UX & Python Lover</h3>
+<h3 align="center">💻 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 👾 Evolving Dummy </h3>
 
 ---
 
