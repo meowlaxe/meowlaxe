@@ -15,7 +15,7 @@
 
 - 🎓 I'm a Computer Engineering student at **Universitas Syiah Kuala**
 - 🔒 Passionate about **CyberSecurity** and **Network Engineering**
-- 🐍 Experienced with **Python**, basic **Linux**, and **UI/UX design**
+- 🐍 Experienced with **Python**, **Linux**, and **UI/UX design**
 - 🌱 Currently learning and growing in **ethical hacking**, **recon**, and **vulnerability management**
 
 ---
