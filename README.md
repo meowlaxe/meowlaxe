@@ -64,12 +64,7 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 ---
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rahmatulzikri05&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rahmatulzikri05&screen_effect=true&theme=blue_chill">
-  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=rahmatulzikri05&theme=summer">
-</picture>
-
+<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=meowlaxe&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF">
 
 
 
